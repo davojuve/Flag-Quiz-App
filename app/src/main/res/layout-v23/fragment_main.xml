@@ -44,7 +44,7 @@
     <LinearLayout
         android:orientation="horizontal"
         android:id="@+id/row1LinearLayout"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content" >
 
         <Button
@@ -66,7 +66,7 @@
     <LinearLayout
         android:orientation="horizontal"
         android:id="@+id/row2LinearLayout"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content" >
 
         <Button
@@ -87,7 +87,7 @@
     <LinearLayout
         android:orientation="horizontal"
         android:id="@+id/row3LinearLayout"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content" >
 
         <Button
@@ -111,7 +111,7 @@
     <LinearLayout
         android:orientation="horizontal"
         android:id="@+id/row4LinearLayout"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content" >
 
         <Button
